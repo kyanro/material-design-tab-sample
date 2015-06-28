@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MaterialTabHostSample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="inner_fragment_string">in fragment</string>
+</resources>
